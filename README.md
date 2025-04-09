@@ -7,7 +7,25 @@
 - Анализ безопасности локальных сетей
 - Тестирование конфигурации фаерволов
 - Диагностика сетевых служб и оборудования
+  
+## 🛠️ Установка
 
+### 🖥️ Linux (Debian/Ubuntu)
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/Dimatop228/portscan.git
+cd portscan
+pip3 install -r requirements.txt
+```
+### 📱 Termux
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/Dimatop228/portscan.git
+cd portscan
+pip3 install -r requirements.txt
+```
 ## 🚀 Ключевые особенности
 
 ### 📚 Расширенная база портов (400+ сервисов)
@@ -31,6 +49,25 @@ Professional TCP port analysis tool with advanced service identification capabil
 - Local network security auditing
 - Firewall configuration testing
 - Network service diagnostics
+
+## 🛠️ Installation
+
+### 🖥️ Linux (Debian/Ubuntu)
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/Dimatop228/portscan.git
+cd portscan
+pip3 install -r requirements.txt
+```
+### 📱 Termux
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+git clone https://github.com/Dimatop228/portscan.git
+cd portscan
+pip3 install -r requirements.txt
+```
 
 ## 🚀 Key Features
 
