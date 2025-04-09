@@ -20,8 +20,8 @@ pip3 install -r requirements.txt
 ```
 ### 📱 Termux
 ```bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install python3 python3-pip git -y
+apt update && apt upgrade -y
+apt install python3 python3-pip git -y
 git clone https://github.com/Dimatop228/portscan.git
 cd portscan
 pip3 install -r requirements.txt
@@ -62,8 +62,8 @@ pip3 install -r requirements.txt
 ```
 ### 📱 Termux
 ```bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install python3 python3-pip git -y
+apt update && apt upgrade -y
+apt install python3 python3-pip git -y
 git clone https://github.com/Dimatop228/portscan.git
 cd portscan
 pip3 install -r requirements.txt
