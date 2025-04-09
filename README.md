@@ -17,6 +17,7 @@ sudo apt install python3 python3-pip git -y
 git clone https://github.com/Dimatop228/portscan.git
 cd portscan
 pip3 install -r requirements.txt
+python portscan.py
 ```
 ### 📱 Termux
 ```bash
@@ -25,6 +26,7 @@ apt install python3 python3-pip git -y
 git clone https://github.com/Dimatop228/portscan.git
 cd portscan
 pip3 install -r requirements.txt
+python portscan.py
 ```
 ## 🚀 Ключевые особенности
 
@@ -59,6 +61,7 @@ sudo apt install python3 python3-pip git -y
 git clone https://github.com/Dimatop228/portscan.git
 cd portscan
 pip3 install -r requirements.txt
+python portscan.py
 ```
 ### 📱 Termux
 ```bash
@@ -67,6 +70,7 @@ apt install python3 python3-pip git -y
 git clone https://github.com/Dimatop228/portscan.git
 cd portscan
 pip3 install -r requirements.txt
+python portscan.py
 ```
 
 ## 🚀 Key Features
