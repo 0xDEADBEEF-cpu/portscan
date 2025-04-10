@@ -1,4 +1,7 @@
 # Многофункциональный портовый сканер
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue) 
+![Termux](https://img.shields.io/badge/Termux-Supported-brightgreen)
+![Linux](https://img.shields.io/badge/Linux-Compatible-orange)
 
 
 Профессиональный инструмент для анализа TCP-портов с расширенными возможностями идентификации сервисов
@@ -43,6 +46,9 @@ PORT_SERVICES = {
 }
 ```
 # Multi-Purpose Port Scanner
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue) 
+![Termux](https://img.shields.io/badge/Termux-Supported-brightgreen)
+![Linux](https://img.shields.io/badge/Linux-Compatible-orange)
 
 
 Professional TCP port analysis tool with advanced service identification capabilities
