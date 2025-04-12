@@ -17,7 +17,7 @@
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/Dimatop228/portscan.git
+git clone https://github.com/0xDEADBEEF-cpu/portscan.git
 cd portscan
 pip3 install -r requirements.txt
 python portscan.py
@@ -26,7 +26,7 @@ python portscan.py
 ```bash
 apt update && apt upgrade -y
 apt install python3 python3-pip git -y
-git clone https://github.com/Dimatop228/portscan.git
+git clone https://github.com/0xDEADBEEF-cpu/portscan.git
 cd portscan
 pip3 install -r requirements.txt
 python portscan.py
@@ -64,7 +64,7 @@ Professional TCP port analysis tool with advanced service identification capabil
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/Dimatop228/portscan.git
+git clone https://github.com/0xDEADBEEF-cpu/portscan.git
 cd portscan
 pip3 install -r requirements.txt
 python portscan.py
@@ -73,7 +73,7 @@ python portscan.py
 ```bash
 apt update && apt upgrade -y
 apt install python3 python3-pip git -y
-git clone https://github.com/Dimatop228/portscan.git
+git clone https://github.com/0xDEADBEEF-cpu/portscan.git
 cd portscan
 pip3 install -r requirements.txt
 python portscan.py
